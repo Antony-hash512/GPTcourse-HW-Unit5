@@ -1,3 +1,4 @@
+#домашка
 
 План выполнения домашки:
 https://github.com/Antony-hash512/GPTcourse-HW-Unit5/blob/master/plan_finaldraft.md
